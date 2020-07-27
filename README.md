@@ -41,7 +41,7 @@ window.
 
 9. You should now see the RockUI on your Mudlet screen.
 
-10. Hit the "X" on the top right to close Mudlet, when prompted click yes to save profile.
+10. Hit the "X" on the top right to close Mudlet, when prompted click yes to save the profile.
 
 11. Reopen Mudlet, sign into Rock and type "find prompt" to calibrate your position for the mapper.
 
