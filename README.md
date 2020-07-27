@@ -41,9 +41,13 @@ window.
 
 9. You should now see the RockUI on your Mudlet screen.
 
-10. You may need to adjust your connection screen size so everything fits right.
+10. Hit the "X" on the top right to close Mudlet, when prompted click yes to save profile.
 
-11. You may need to position the map manually. If this is the case make it short and about as wide as the 
+11. Reopen Mudlet, sign into Rock and type "find prompt" to calibrate your position for the mapper.
+
+12. You may want to adjust the size of your Mudlet window. If you go too small, youll know it.
+
+13.You may also need to position the map manually. If this is the case make it short and about as wide as the 
 box on the top right labeled "GUI.Box2". Align the bottom of the map window with the bottom of the GUI box
 drop the map window then size vertically to the appropriate size ( if you dont do it this way it will try 
 to auto-dock the map up top ).
