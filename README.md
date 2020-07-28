@@ -3,7 +3,7 @@ GUI for Rock : Reloaded
 
 RockUI version 1.2.0
 
-Special thanks goes out to Morbis, Blitz, Hawkens and Luna from Rock : Reloaded for all of your support!Akaya, Demonnic, Eraene, tdk1069, Quixote and
+Special thanks goes out to Morbis, Luna, Blitz, Hawkens and Khorton from Rock : Reloaded for all of your support!Akaya, Demonnic, Eraene, tdk1069, Quixote and
 Vadi ( sorry if i missed anyone! )from the Mudlet Discord for all the things they've done for the Mudlet 
 community and the help they've given me along this journey.
 
